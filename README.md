@@ -13,6 +13,7 @@ serve -s build -p 8000
 
 
 About:-
+
 ● This application is based on React.js and JSON server.
 
 ● It is designed to track the daily tasks of the person. 
