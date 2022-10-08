@@ -1,4 +1,12 @@
 # Task-Tracker
+How to run the application?
+Execute these two commands in the terminal to run the application:
+● JSON Server:
+npm run server
+● Running production build on react on port 8000:
+serve -s build -p 8000
+
+About:-
 ● This application is based on React.js and JSON server.
 
 ● It is designed to track the daily tasks of the person. 
